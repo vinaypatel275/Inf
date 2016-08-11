@@ -5,5 +5,7 @@ public class Firstclass {
 
  {
 	 System.out.println("Hi java,I am coming be carefull");
+	 System.out.println("Hi java,I am coming be carefull2");
+	 
  }
 }
